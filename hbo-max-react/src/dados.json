@@ -1,0 +1,23 @@
+{
+    "planos": [
+        {
+            "nome": "basico", 
+            "recursos": ["2 dispositivos ao mesmo tempo", "resolucao de video full HD"],
+            "preco": 29.90
+        },
+
+        {
+            "nome": "standard", 
+            "recursos": ["2 dispositivos ao mesmo tempo", "resolucao de video full HD", "30 Downloads para curtir offline"],
+            "preco": 44.90
+        },
+
+        {
+            "nome": "platinum", 
+            "recursos": ["4 dispositivos ao mesmo tempo", "resolucao Full HD e 4K Ultra HD*", "Audio Dolby Atmos*"],
+            "preco": 55.90
+        }
+    ],
+
+    "textoBotao": "SELECIONAR PLANO"
+}

@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: Arial Narrow, sans-serif;
+  background-color: blueviolet;
+}
+
+header {
+  background-color: blueviolet;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  text-align: center;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+section {
+  text-align: center;
+}
+
+#planos {
+  padding: 20px;
+}
+
+.sessao {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+  text-align: center;
+  margin: 1%;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  color: blanchedalmond;
+}
+
+p {
+  color: blanchedalmond;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+footer {
+  background-color: blueviolet;
+  text-align: center;
+  padding: 30px;
+}
